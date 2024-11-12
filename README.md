@@ -6,3 +6,5 @@ It provides 3 steps to help yourself that you can shuffle through until you find
 
 
 ## Link to Deployed Application
+
+https://shs-peb.github.io/You-re-too-pretty-to-be-sad/
