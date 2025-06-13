@@ -7,7 +7,7 @@
 
 Whether you’re stuck in a spiral or just need a mental reset, this site reminds you: **you’re worth the care**.
 
-![Screenshot of app](./you're.png)
+![Screenshot of app](./you're-too-pretty-screenshot.PNG)
 
 ---
 
