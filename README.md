@@ -51,6 +51,7 @@ To run this project locally:
    git clone https://github.com/shs-peb/You-re-too-pretty-to-be-sad.git
    
 2. Navigate into the project directory:
-cd You-re-too-pretty-to-be-sad
+   ```bash
+   cd You-re-too-pretty-to-be-sad
 
 3. Open index.html in your browser.
